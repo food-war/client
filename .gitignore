@@ -1,4 +1,5 @@
 .deploy
+imports/ui/config
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
